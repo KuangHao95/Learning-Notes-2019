@@ -1,2 +1,2 @@
-# Learning-Notes-2019
-Notes from courses to interview preparations
+# Learning-Notes
+Notes from courses to interview preps
